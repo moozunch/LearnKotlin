@@ -24,7 +24,7 @@ fun main() {
     println(greeting.indexOf("Moozunch")) //start from cound to character 3
 
     println(greeting + " " + nama)
-//    println(greeting.plus(nama)) //Instead of this, try Interpolation/Templates:
+    println(greeting.plus(nama)) //Instead of this, try Interpolation/Templates:
     println("WEYOOO $greeting $nama")
 
 
