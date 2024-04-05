@@ -3,6 +3,8 @@ fun main(){
     //fun for function, main function without parameters
     println("Hello World") //Print and new line
     //no semicolon needed, but if you want to use it is fine aswell
+    println(3+3)
     //Case Sensitives
     print("Halo Dunia") // Print Without new line
+
 }
