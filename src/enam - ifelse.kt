@@ -10,6 +10,16 @@ fun main() {
         println("x is equeal to y")
     }
 
+    val time = 20
+    // bisa juga if nya untuk isi value sebuah variable
+    val greet = if (time < 18) {
+        "Good day!!"
+    } else {
+        "Good evening!!"
+    }
+    println(greet)
+
+
     var greeting: String
     greeting = if (x < 20) "Good day!" else "Good Evening!"
     //when only have one expression, curly brackets optional, look alike ternary operator
