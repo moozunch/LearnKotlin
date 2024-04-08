@@ -13,10 +13,12 @@ For more Information check <a href="https://kotlinlang.org/">Kotlin Official Web
 
 <h2>Tools and Source</h2>
 
-<img align="left" src="https://github.com/moozunch/LearnKotlin/assets/112236945/700f1d31-b0a8-4a0b-8dad-d864cb8d590a" style="width:100px;height:100px;">
-* Kotlin is a language developed by <a href="https://www.jetbrains.com/">JetBrains</a> and to use it you need to use one of JetBrains IDE in which is <a href="https://www.jetbrains.com/idea/">IntelliJ</a> or <a href="[https://www.jetbrains.com/idea/](https://developer.android.com/studio)">Android Studio</a>. <br>
-* In this opportunity aswell I'm using IntelliJ as I only learn basic Kotlin but I also using Android Studio for my application with Kotlin as backend programing language of the application.
-*  Study References [W3School - Kotlin](https://www.w3schools.com/kotlin/index.php)
+<img align="left" src="https://github.com/moozunch/LearnKotlin/assets/112236945/700f1d31-b0a8-4a0b-8dad-d864cb8d590a" style="width:120px;height:120px;">
+<ul>
+    <li> Kotlin is a language developed by <a href="https://www.jetbrains.com/">JetBrains</a> and to use it you need to use one of JetBrains IDE in which is <a     href="https://www.jetbrains.com/idea/">IntelliJ</a> or <a href="https://developer.android.com/studio">Android Studio</a>.</li>
+    <li> In this opportunity aswell I'm using IntelliJ as I only learn basic Kotlin but I also using Android Studio for my application with Kotlin as backend programing language of the         application.</li>
+    <li> Study References <a href="https://www.w3schools.com/kotlin/index.php">W3School - Kotlin</a></li>
+</ul>
 
 <h2>Kotlin Overview</h2>
 
