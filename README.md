@@ -1,6 +1,6 @@
 <h1>Kotlin</h1>
 
-<img align="left" src="https://github.com/moozunch/LearnKotlin/assets/112236945/37990409-bdae-4413-b78f-2c3f67d3ffcb" style="width:300px;height:300px;">
+<img align="left" src="https://github.com/moozunch/LearnKotlin/assets/112236945/37990409-bdae-4413-b78f-2c3f67d3ffcb" style="width:305px;height:305px;">
 Kotlin is an open-source, statically-typed programming language that supports both object-oriented and functional programming. Kotlin provides similar syntax and concepts from other languages, including C#, Java, and Scala, among many others. Kotlin does not aim to be unique—instead, it draws inspiration from decades of language development. It exists in variants that target the JVM (Kotlin/JVM), JavaScript (Kotlin/JS), and native code (Kotlin/Native).
 <br>
 <br>
