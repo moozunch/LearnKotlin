@@ -22,8 +22,6 @@ For more Information check <a href="https://kotlinlang.org/">Kotlin Official Web
 
 <h2>Kotlin Overview</h2>
 
-<h4>1. Basic Output and printing "Hello World!"</h4>
-
 ```
 un main() {
     val name = "stranger"        // Declare your first variable
