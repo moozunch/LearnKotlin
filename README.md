@@ -23,7 +23,7 @@ For more Information check <a href="https://kotlinlang.org/">Kotlin Official Web
 <h2>Kotlin Overview</h2>
 
 ```
-un main() {
+fun main() {
     val name = "stranger"        // Declare your first variable
     println("Hi, $name!")        // ...and use it!
     print("Current count:")
